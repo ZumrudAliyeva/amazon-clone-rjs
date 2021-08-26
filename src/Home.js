@@ -14,6 +14,40 @@ function Home() {
             price={546.00} 
             rating={5} 
             image="https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2019/July/amazonbasics_520x520._SY304_CB442725065_.jpg"/>
+            <Product 
+            id={12345}
+            title="lorem ipsum dolor gfxhgcjhvkhvkhvkj" 
+            price={546.00} 
+            rating={5} 
+            image="https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2019/July/amazonbasics_520x520._SY304_CB442725065_.jpg"/>
+            </div>
+            <div className="home__row">
+            <Product 
+            id={12345}
+            title="lorem ipsum dolor gfxhgcjhvkhvkhvkj" 
+            price={546.00} 
+            rating={5} 
+            image="https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2019/July/amazonbasics_520x520._SY304_CB442725065_.jpg"/>
+            <Product 
+            id={12345}
+            title="lorem ipsum dolor gfxhgcjhvkhvkhvkj" 
+            price={546.00} 
+            rating={5} 
+            image="https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2019/July/amazonbasics_520x520._SY304_CB442725065_.jpg"/>
+            <Product 
+            id={12345}
+            title="lorem ipsum dolor gfxhgcjhvkhvkhvkj" 
+            price={546.00} 
+            rating={5} 
+            image="https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2019/July/amazonbasics_520x520._SY304_CB442725065_.jpg"/>
+            </div>
+            <div className="home__row">
+            <Product 
+            id={12345}
+            title="lorem ipsum dolor gfxhgcjhvkhvkhvkj" 
+            price={546.00} 
+            rating={5} 
+            image="https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2019/July/amazonbasics_520x520._SY304_CB442725065_.jpg"/>
             </div>
         </div>
     )
