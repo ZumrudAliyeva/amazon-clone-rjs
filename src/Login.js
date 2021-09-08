@@ -21,7 +21,6 @@ function Login() {
 
   const register = (e) => {
     e.preventDefault();
-
     auth
       .createUserWithEmailAndPassword(email, password)
       .then((auth) => {
