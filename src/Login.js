@@ -57,7 +57,6 @@ function Login() {
             value={password}
             onChange={(e) => setPassword(e.target.value)}
           />
-
           <button
             type="submit"
             onClick={signIn}
@@ -66,12 +65,10 @@ function Login() {
             Sign In
           </button>
         </form>
-
         <p>
         By continuing, you agree to Amazon's Conditions of Use and Privacy
           Notice.
         </p>
-
         <button onClick={register} className="login__registerButton">
           Create your Amazon Account
         </button>

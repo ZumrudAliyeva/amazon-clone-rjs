@@ -12,6 +12,7 @@
     width: 100px;
     object-fit: contain;
     margin: 0 20px;
+    margin-top: 8px;
     cursor: pointer;
   }
   
@@ -48,6 +49,7 @@
   
   .header__searchIcon {
     padding: 5px;
+    font-size: 14px !important;
     margin-right: 20px;
     height: 40px !important;
     width: 45px !important;
