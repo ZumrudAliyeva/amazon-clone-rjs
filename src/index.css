@@ -5,6 +5,9 @@
 a{
   text-decoration: none;
 }
+button{
+  cursor: pointer;
+}
 
 body {
   background-color: rgb(234 237 237);
